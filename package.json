@@ -1,0 +1,13 @@
+{
+  "name": "@avora/sdk",
+  "version": "1.0.0",
+  "description": "Official AVTP Protocol SDK for Avora OS",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "uuid": "^9.0.0",
+    "crypto-js": "^4.2.0"
+  }
+}
