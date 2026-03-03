@@ -1,6 +1,6 @@
 {
   "name": "@avora/sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Official AVTP Protocol SDK for Avora OS",
   "main": "src/index.js",
   "type": "commonjs",
