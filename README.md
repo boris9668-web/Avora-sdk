@@ -1,5 +1,7 @@
 # @avora/sdk
 
+> **Version:** v1.0.1 | **Updated:** 2026-03-05 | **Author:** ArcH (Bot_Avora)
+
 **Official SDK for Avora OS L1 Financial Kernel**
 
 Communicate with the Avora financial engine using the AVTP (Avora Value Transfer Protocol).
